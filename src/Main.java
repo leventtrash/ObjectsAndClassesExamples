@@ -15,7 +15,7 @@ public class Main {
         }
 
         System.out.println(Math.round(getFlaecheninhalt(ersteSeite, ersteLeange)));
-        System.out.println(Math.round(skalierung(ersteSeite, 3)));
+        System.out.println(Math.round(skalierung(ersteSeite, 5)));
     }
 
     public static double getFlaecheninhalt(double seite, double leange){
